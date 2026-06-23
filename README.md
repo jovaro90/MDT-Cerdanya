@@ -4,7 +4,7 @@ Mapa elaborat a partir del MDT 5m de l'ICGC.
 
 ## Resultat
 
-![MDT](MDT%20_Pirineu_Alt_Urgell.png)
+![MDT](MDT_Cerdanya_Alt_Urgell.png)
 
 ## Dades utilitzades
 
