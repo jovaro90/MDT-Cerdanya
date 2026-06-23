@@ -5,6 +5,7 @@ Mapa elaborat a partir del MDT 5m de l'ICGC.
 ## Resultat
 
 ![MDT](MDT_Cerdanya_Alt_Urgell.png)
+![MDT](Pendent_Cerdanya_Alt_Urgell.png)
 
 ## Dades utilitzades
 
